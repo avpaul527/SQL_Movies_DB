@@ -1,7 +1,7 @@
   # SQL Movies DataBase Assignment
 -------------------------------------------------------------------------
- `mysql> create database movies_db;`
- `Query OK, 1 row affected (0.03 sec)`
+`mysql> create database movies_db;
+Query OK, 1 row affected (0.03 sec)`
 
 `mysql> show databases;
 +--------------------+
